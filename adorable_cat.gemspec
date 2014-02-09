@@ -22,6 +22,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake"
   spec.add_development_dependency "json"
   spec.add_development_dependency "rest-client"
+  spec.add_development_dependency "nokogiri"
   spec.required_ruby_version = '>= 1.9.3'
   spec.post_install_message = "Enjoy reading the cat facts and looking at those adorable cats."
 
