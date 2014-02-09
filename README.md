@@ -1,6 +1,6 @@
 # AdorableCat
 
-TODO: Write a gem description
+A gem to fetch a random fact about cats and fetch an image url of an adorable cat.
 
 ## Installation
 
@@ -18,12 +18,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To fetch data about cat, just do this in your ruby code:
+
+    fact, url = AdorableCat.get_cat_data
 
 ## Contributing
 
-1. Fork it ( http://github.com/<my-github-username>/adorable_cat/fork )
+1. Fork it ( http://github.com/rishijain/adorable_cat/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+adorable_cat
+============
