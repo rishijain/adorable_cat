@@ -1,6 +1,6 @@
 # AdorableCat
 
-A gem to fetch a random fact about cats and fetch an image url of an adorable cat.
+A gem to fetch a random fact about cats and fetch an image url of an adorable cat. Everytime you make a method call, you get a new fact about cats and a new image of a cat.
 
 ## Installation
 
@@ -30,5 +30,3 @@ To fetch data about cat, just do this in your ruby code:
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 =======
-adorable_cat
-============
