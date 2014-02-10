@@ -2,6 +2,9 @@
 
 A gem to fetch a random fact about cats and fetch an image url of an adorable cat. Everytime you make a method call, you get a new fact about cats and a new image of a cat.
 
+See live here:
+http://adorable-cat.herokuapp.com/
+
 ## Installation
 
 Add this line to your application's Gemfile:
